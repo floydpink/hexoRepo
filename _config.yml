@@ -65,6 +65,12 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: hiero
 
+# Search
+search:
+    insight: true # you need to install `hexo-generator-json-content` before using Insight Search
+    swiftype: # enter swiftype install key here
+    baidu: false # you need to disable other search engines to use Baidu search, options: true, false
+    
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
