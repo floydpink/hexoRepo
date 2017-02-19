@@ -137,7 +137,7 @@ Hiero has native support for DuoShuo & Disqus comment systems. Modify the follow
 
 ```yml
 # comment ShortName, you can choose only ONE to display.
-duoshuo_shortname: iTimeTraveler
+duoshuo_shortname: vincentpeng777
 disqus_shortname: 
 ```
 

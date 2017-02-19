@@ -137,7 +137,7 @@ Hiero 已完全支持原生的多说、 Disqus评论功能. 您可以在 `hiero/
 
 ```yml
 # comment ShortName, you can choose only ONE to display.
-duoshuo_shortname: iTimeTraveler
+duoshuo_shortname: vincentpeng777
 disqus_shortname: 
 ```
 
