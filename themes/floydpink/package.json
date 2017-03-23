@@ -1,0 +1,20 @@
+{
+  "name": "hexo-theme-floydpink",
+  "version": "0.0.1",
+  "description": "An attractive theme for Hexo.",
+  "author": "floydpink",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/floydpink/hexo-theme-floydpink"
+  },
+  "license": "MIT",
+  "private": true,
+  "homepage": "https://github.com/floydpink/hexo-theme-floydpink#readme",
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "load-grunt-tasks": "~3.5.2",
+    "grunt-git": "~1.0.3",
+    "grunt-contrib-clean": "~1.0.0",
+    "grunt-contrib-copy": "~1.0.0"
+  }
+}
